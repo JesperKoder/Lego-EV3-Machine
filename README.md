@@ -1,4 +1,4 @@
-<h1>Here we are experimenting whit EV3 Classroom App</h1>
+<h1>Here we are experimenting with EV3 Classroom App</h1>
 <hr>
 <h2>Copirights belong to:</h2>
 <hr>
