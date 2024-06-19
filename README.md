@@ -16,5 +16,7 @@
   <li>Ultra-sound sensor moved to top</li>
   <li>Lifting arm moved to front</li>
 </ol>
+<hr>
+<img align='left' src="./image/map.jpg" height="200vh">
 
 
