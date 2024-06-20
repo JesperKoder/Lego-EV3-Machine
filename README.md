@@ -26,7 +26,7 @@
 </div>
 <img align='right' src="./image/Lego mv.jpg" height="200vh">
 
-<h2>FIGMA teknisk tegning: https://www.figma.com/design/gI44lyrQWq6s6Zsy5UHBL8/Lego-EV3-prosjekt?node-id=0-1&t=CTpBxnVSGvdyB3AW-1 >/h2>
+<h2>FIGMA teknisk tegning: https://www.figma.com/design/gI44lyrQWq6s6Zsy5UHBL8/Lego-EV3-prosjekt?node-id=0-1&t=CTpBxnVSGvdyB3AW-1 </h2>
 <img align='right' src="./image/Lego uv.jpg" height="200vh">
 <img align='right' src="./image/Moveable boy.jpg" height="200vh">
 <img align='right' src="./image/building-process-1.jpg" height="200vh">
