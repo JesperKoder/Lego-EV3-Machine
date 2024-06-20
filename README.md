@@ -24,7 +24,7 @@
   <img src="./image/map.jpg" height="200vh">
 </div>
 
-<div><h2>FIGMA teknisk tegning: https://www.figma.com/design/gI44lyrQWq6s6Zsy5UHBL8/Lego-EV3-prosjekt?node-id=0-1&t=CTpBxnVSGvdyB3AW-1 </h2>
+<div><h4>FIGMA teknisk tegning: https://www.figma.com/design/gI44lyrQWq6s6Zsy5UHBL8/Lego-EV3-prosjekt?node-id=0-1&t=CTpBxnVSGvdyB3AW-1 </h4>
 </div>
 
 <div>
