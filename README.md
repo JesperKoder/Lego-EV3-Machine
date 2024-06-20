@@ -20,29 +20,32 @@
 <hr>
 
 <h4>Map:</h4>
-<div>
+  
   <img src="./image/map.jpg" height="200vh">
-</div>
 
 <div><h4>FIGMA teknisk tegning: https://www.figma.com/design/gI44lyrQWq6s6Zsy5UHBL8/Lego-EV3-prosjekt?node-id=0-1&t=CTpBxnVSGvdyB3AW-1 </h4>
 </div>
 
-<div>
+<hr>
+
+<div style>
 <h5>Dag med jobbing: 1</h5> <br>
 
-  <img align='right' src="./image/Lego mv.jpg" height="200vh">
-  <img align='right' src="./image/Lego uv.jpg" height="200vh">
-  <img align='right' src="./image/Moveable boy.jpg" height="200vh">
-  <img align='right' src="./image/building-process-1.jpg" height="200vh">
-  <img align='right' src="./image/building-process-2.jpg" height="200vh">
-  <img align='right' src="./image/building-process-3.jpg" height="200vh">
-</div>
+  align='center'
+  <img src="./image/Lego uv.jpg" height="200vh">
+  <img src="./image/Moveable boy.jpg" height="200vh">
+  <img src="./image/building-process-1.jpg" height="200vh">
+  <img src="./image/building-process-2.jpg" height="200vh">
+  <img src="./image/building-process-3.jpg" height="200vh">
+</div><br>
+
+<hr>
 
 <div>
 <h5>Dag med jobbing: 2</h5>
 
-  <img align='right' src="./image/forklift-building-1.jpg" height="200vh">
-  <img align='right' src="./image/forklift-building-2.jpg" height="200vh">
-  <img align='right' src="./image/forklift-building-3.jpg" height="200vh">
-  <img align='right' src="./image/forklift-building-4.jpg" height="200vh">
+  <img src="./image/forklift-building-1.jpg" height="200vh">
+  <img src="./image/forklift-building-2.jpg" height="200vh">
+  <img src="./image/forklift-building-3.jpg" height="200vh">
+  <img src="./image/forklift-building-4.jpg" height="200vh">
 </div>
