@@ -2,7 +2,7 @@
 <hr>
 <h2>Copyrights belong to:</h2>
 <hr>
-<p>LEGO, the LEGO logo, the Minifigure, DUPLO, the SPIKE logo, MINDSTORMS and the MINDSTORMS logo are trademarks and/or copyrights of the LEGO Group. ©2024 The LEGO Group. All rights reserved>/p>
+<p>LEGO, the LEGO logo, the Minifigure, DUPLO, the SPIKE logo, MINDSTORMS and the MINDSTORMS logo are trademarks and/or copyrights of the LEGO Group. ©2024 The LEGO Group. All rights reserved</p>
 
 <h3>18.06.24</h3>
 <ol>
