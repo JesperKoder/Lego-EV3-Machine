@@ -4,7 +4,16 @@
 <hr>
 <p>LEGO, the LEGO logo, the Minifigure, DUPLO, the SPIKE logo, MINDSTORMS and the MINDSTORMS logo are trademarks and/or copyrights of the LEGO Group. ©2024 The LEGO Group. All rights reserved</p>
 
-<h3>18.06.24</h3>
+<hr>
+<h3>Contributers</h3>
+
+[Jesper](https://github.com/JesperKoder)<br>
+[Erik](https://github.com/NordikE)<br>
+[Trond-Morten](https://github.com/TrondMortenR)<br>
+[André](https://github.com/AndreK-B06)<br>
+
+<hr>
+<h4>18.06.24</h4>
 <ol>
   <li>Made spinning top to test motors</li>
   <li>Tested light sensor (positioning wasn't ideal)</li>
@@ -19,7 +28,7 @@
 
 <hr>
 
-<h4>Map:</h4>
+<h5>Map:</h5>
   
   <img src="./image/map.jpg" height="200vh">
 
