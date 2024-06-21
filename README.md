@@ -11,9 +11,9 @@
 
 [Erik](https://github.com/NordikE) Roll: Note-taker, Photographer, Team member<br>
 
-[Trond-Morten](https://github.com/TrondMortenR) Roll:Photographer, Team member<br>
+[Trond-Morten](https://github.com/TrondMortenR) Roll: Photographer, Team member<br>
 
-[André](https://github.com/AndreK-B06) Roll:Photographer,Team member<br>
+[André](https://github.com/AndreK-B06) Roll: Photographer, Team member<br>
 
 [Virad](https://github.com/VidarHeritier) Roll: Team member<br>
 
