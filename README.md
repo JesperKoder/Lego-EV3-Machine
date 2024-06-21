@@ -29,7 +29,7 @@
 <hr>
 
 <div style>
-<h5>Dag med jobbing: 1</h5> <br>
+<h5>Day: 1</h5> <br>
 
   <img src="./image/Lego uv.jpg" height="200vh">
   <img src="./image/Moveable boy.jpg" height="200vh">
