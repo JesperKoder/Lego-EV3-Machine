@@ -11,6 +11,9 @@
 [Erik](https://github.com/NordikE)<br>
 [Trond-Morten](https://github.com/TrondMortenR)<br>
 [André](https://github.com/AndreK-B06)<br>
+[Virad](https://github.com/VidarHeritier)<br>
+[Sebastian](https://github.com/Sebahoppkodehode)<br>
+[Inna](https://github.com/Inna-B10)<br>
 
 <hr>
 <h4>18.06.24</h4>
