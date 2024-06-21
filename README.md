@@ -7,13 +7,13 @@
 <hr>
 <h3>Contributers</h3>
 
-[Jesper](https://github.com/JesperKoder)<br>
-[Erik](https://github.com/NordikE)<br>
-[Trond-Morten](https://github.com/TrondMortenR)<br>
-[André](https://github.com/AndreK-B06)<br>
-[Virad](https://github.com/VidarHeritier)<br>
-[Sebastian](https://github.com/Sebahoppkodehode)<br>
-[Inna](https://github.com/Inna-B10)<br>
+[Jesper](https://github.com/JesperKoder) Roll: Team Leader, Team member<br>
+[Erik](https://github.com/NordikE) Roll: Note-taker, Photographer, Team member<br>
+[Trond-Morten](https://github.com/TrondMortenR) Roll:Photographer, Team member<br>
+[André](https://github.com/AndreK-B06) Roll:Photographer,Team member<br>
+[Virad](https://github.com/VidarHeritier) Roll: Team member<br>
+[Sebastian](https://github.com/Sebahoppkodehode) Roll: Team member<br>
+[Inna](https://github.com/Inna-B10) Roll: Team member<br>
 
 <hr>
 <h4>18.06.24</h4>
