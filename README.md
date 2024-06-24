@@ -59,10 +59,17 @@
 <hr>
 
 <div>
-<h5>Day: 2</h5>
+<h5>20.09.24</h5>
 
   <img src="./image/forklift-building-1.jpg" height="200vh">
   <img src="./image/forklift-building-2.jpg" height="200vh">
   <img src="./image/forklift-building-3.jpg" height="200vh">
   <img src="./image/forklift-building-4.jpg" height="200vh">
 </div>
+
+<ul>
+  <li>Målt opp bare (se FIGMA link over)</li>
+  <li>Sjekket hvor nøyaktig ultralyd sensor er og hvordan den virker i praksis både fysisk og mtp programvare</li>
+  <li>Bygget gaffeltrukk mekaisme</li>
+  <li>Begynt på programvare/ logikk</li>
+</ul>
