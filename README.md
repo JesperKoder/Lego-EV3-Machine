@@ -7,19 +7,19 @@
 <hr>
 <h3>Contributers</h3>
 
-[Jesper](https://github.com/JesperKoder) Roll: Team Leader, Team member<br>
+[Jesper](https://github.com/JesperKoder) Role: Team Leader, Team member<br>
 
-[Erik](https://github.com/NordikE) Roll: Note-taker, Photographer, Team member<br>
+[Erik](https://github.com/NordikE) Role: Note-taker, Photographer, Team member<br>
 
-[Trond-Morten](https://github.com/TrondMortenR) Roll: Photographer, Team member<br>
+[Trond-Morten](https://github.com/TrondMortenR) Role: Photographer, Team member<br>
 
-[André](https://github.com/AndreK-B06) Roll: Photographer, Team member<br>
+[André](https://github.com/AndreK-B06) Role: Photographer, Team member<br>
 
-[Virad](https://github.com/VidarHeritier) Roll: Team member<br>
+[Virad](https://github.com/VidarHeritier) Role: Team member<br>
 
-[Sebastian](https://github.com/Sebahoppkodehode) Roll: Team member<br>
+[Sebastian](https://github.com/Sebahoppkodehode) Role: Team member<br>
 
-[Inna](https://github.com/Inna-B10) Roll: Team member<br>
+[Inna](https://github.com/Inna-B10) Role: Team member<br>
 
 <hr>
 
@@ -68,9 +68,9 @@
 <br>
 
 <ol>
-  <li>Målt opp bare (se FIGMA link over)</li>
-  <li>Sjekket hvor nøyaktig ultralyd sensor er og hvordan den virker i praksis både fysisk og mtp programvare</li>
-  <li>Bygget gaffeltrukk mekaisme</li>
-  <li>Begynt på programvare/ logikk</li>
+  <li>Measured track (see FIGMA link above)</li>
+  <li>Checked how accurate ultrasound sensor is, and how it works in pracktice both physically and within the software.</li>
+  <li>Built forklift assembly</li>
+  <li>started on logic/ programming.</li>
 </ol>
 </div>
