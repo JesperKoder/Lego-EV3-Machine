@@ -22,20 +22,6 @@
 [Inna](https://github.com/Inna-B10) Roll: Team member<br>
 
 <hr>
-<h4>18.06.24</h4>
-<ol>
-  <li>Made spinning top to test motors</li>
-  <li>Tested light sensor (positioning wasn't ideal)</li>
-  <li>Construction over controller for arm for actions</li>
-  <li>Funnel construction at front to position rover</li>
-  <li>Light sensor removed</li>
-  <li>Pressure sensor tested. Positioning is an issue</li>
-  <li>Ultra-sound sensor tested. Several positions tested. On top of controller is possibly best</li>
-  <li>Ultra-sound sensor moved to top</li>
-  <li>Lifting arm moved to front</li>
-</ol>
-
-<hr>
 
 <h5>Map:</h5>
   
@@ -47,14 +33,27 @@
 <hr>
 
 <div style>
-<h5>Day: 1</h5> <br>
+<h5>18.06.24</h5> <br>
 
   <img src="./image/Lego uv.jpg" height="200vh">
   <img src="./image/Moveable boy.jpg" height="200vh">
   <img src="./image/building-process-1.jpg" height="200vh">
   <img src="./image/building-process-2.jpg" height="200vh">
   <img src="./image/building-process-3.jpg" height="200vh">
-</div><br>
+
+<br>
+<ol>
+  <li>Made spinning top to test motors</li>
+  <li>Tested light sensor (positioning wasn't ideal)</li>
+  <li>Construction over controller for arm for actions</li>
+  <li>Funnel construction at front to position rover</li>
+  <li>Light sensor removed</li>
+  <li>Pressure sensor tested. Positioning is an issue</li>
+  <li>Ultra-sound sensor tested. Several positions tested. On top of controller is possibly best</li>
+  <li>Ultra-sound sensor moved to top</li>
+  <li>Lifting arm moved to front</li>
+</ol>
+</div>
 
 <hr>
 
@@ -65,11 +64,13 @@
   <img src="./image/forklift-building-2.jpg" height="200vh">
   <img src="./image/forklift-building-3.jpg" height="200vh">
   <img src="./image/forklift-building-4.jpg" height="200vh">
-</div>
 
-<ul>
+<br>
+
+<ol>
   <li>Målt opp bare (se FIGMA link over)</li>
   <li>Sjekket hvor nøyaktig ultralyd sensor er og hvordan den virker i praksis både fysisk og mtp programvare</li>
   <li>Bygget gaffeltrukk mekaisme</li>
   <li>Begynt på programvare/ logikk</li>
-</ul>
+</ol>
+</div>
