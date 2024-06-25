@@ -85,3 +85,18 @@
   <img src="./image/gyroscope-testing.jpg" height="200vh">
   <img src="./image/construkson-test.jpg" height="200vh">
 </div>
+
+<div>
+ <h5>25.06.24</h5>
+
+  <ul>
+    <li>Changed forklift assembly to hook assembly (24.06)</li>
+    <li>Added finger assembly (24.06)</li>
+    <li>Coded in first 2 obstacles (24.06)</li>
+    <li>Stiffened hook assembly</li>
+    <li>Changed code from 7.4 to 7.3 rotations on first run</li>
+    <li>Reversed a little more after "green" obstacles</li>
+  </ul>
+</div>
+
+
