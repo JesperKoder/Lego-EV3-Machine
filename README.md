@@ -74,3 +74,14 @@
   <li>started on logic/ programming.</li>
 </ol>
 </div>
+
+<hr>
+
+<div>
+<h5>24.06.2024</h5>
+
+  <img src="./image/Vidar-jesper.jpg" height="200vh">
+  <img src="./image/lego-bil.jpg" height="200vh">
+  <img src="./image/gyroscope-testing.jpg" height="200vh">
+  <img src="./image/construkson-test.jpg" height="200vh">
+</div>
