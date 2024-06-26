@@ -89,6 +89,13 @@
 <div>
  <h5>25.06.24</h5>
 
+  <img src="./image/building-process-4.jpg" height="200vh">
+  <img src="./image/building-process-5.jpg" height="200vh">
+  <img src="./image/building-process-6.jpg" height="200vh">
+  <img src="./image/building-process-7.jpg" height="200vh">
+  
+  <br>
+
   <ul>
     <li>Changed forklift assembly to hook assembly (24.06)</li>
     <li>Added finger assembly (24.06)</li>
@@ -98,5 +105,3 @@
     <li>Reversed a little more after "green" obstacles</li>
   </ul>
 </div>
-
-
